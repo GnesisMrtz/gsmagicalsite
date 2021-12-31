@@ -1,5 +1,5 @@
 <p>
-<h1> G's Magical Site </h1>
+<h1> G's Magical Site✨</h1>
 
 This website was an assigment for Angela Yu's <em><b>Web Development Bootcamp</b><em>. 
 
@@ -22,3 +22,6 @@ This website was an assigment for Angela Yu's <em><b>Web Development Bootcamp</b
   making this was great for me and a huge "proud of myself" moment. I had a little struggle learning CSS (I mean, I still have)
   but nothing that a lot of practice can't resolve!
   <p>
+
+  <h2>Link to the site over here 👎🏽 </h2>
+  https://gnesismrtz.github.io/gsmagicalsite/
