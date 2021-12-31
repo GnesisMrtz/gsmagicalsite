@@ -25,3 +25,5 @@ This website was an assigment for Angela Yu's <em><b>Web Development Bootcamp</b
 
   <h2>Link to the site over here 👎🏽 </h2>
   https://gnesismrtz.github.io/gsmagicalsite/
+
+  #angelayu #angela-yu #webdevelopment #womenintech #girlswhocode #webdevelopmentbootcamp #newbie
